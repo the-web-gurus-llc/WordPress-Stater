@@ -4,7 +4,7 @@ Version: 4.2.2
 
 ## Author:
 
-The Web Gurus LLC( [@thewebgurusllc](http://twitter.com/thewebgurusllc) / [collectivthkg.com](http://collectivthkg.com) / [thewebgurusllc.com](https://www.thewebgurusllc.com) )
+The Web Gurus LLC( [@thewebgurusllc](http://twitter.com/thewebgurusllc)  / [thewebgurusllc.com](https://www.thewebgurusllc.com) )
 
 ## Summary
 
