@@ -1,3 +1,5 @@
+## Error 404, you can edit as you want
+
 <?php
 /**
  * The template for displaying 404 pages (not found).
