@@ -4,7 +4,7 @@ Version: 4.2.2
 
 ## Author:
 
-Matt Banks ( [@mattbanks](http://twitter.com/mattbanks) / [collectivthkg.com](http://collectivthkg.com) / [mattbanks.me](http://www.mattbanks.me) )
+The Web Gurus LLC( [@thewebgurusllc](http://twitter.com/thewebgurusllc) / [collectivthkg.com](http://collectivthkg.com) / [thewebgurusllc.com](https://www.thewebgurusllc.com) )
 
 ## Summary
 
@@ -56,14 +56,6 @@ The theme includes deployments via [grunt-rsync](https://github.com/jedrichards/
 
 ![dependencies](https://david-dm.org/mattbanks/WordPress-Starter-Theme.png)
 
-### Contributing:
-
-Anyone and everyone is welcome to contribute! Check out the [Contributing Guidelines](CONTRIBUTING.md).
-
-### Contributors:
-
-- [ddropik](https://github.com/ddropik)
-- [jjmu15](https://github.com/jjmu15)
 
 ### Credits
 
